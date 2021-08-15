@@ -1,0 +1,6 @@
+selenium
+typer
+pandas
+PyQt5
+numpy
+click
